@@ -5,7 +5,7 @@ about:
   head: 392539d
   archived: false
   latestVersion: "v1.51.1"
-  collectedAt: 2026-09-08T02:49:45Z
+  collectedAt: 2026-09-08T05:11:50Z
 timeline:
   created: 2020-05-07
   lastCommit: 2026-09-04
@@ -83,7 +83,7 @@ total:
   commit: 3520
 ---
 path: /home/runner/.x-repo/github.com/anchore/syft
-collectedAt: 2026-09-08T02:49:52Z
+collectedAt: 2026-09-08T05:11:54Z
 loc:
   Json:
     code: 577375

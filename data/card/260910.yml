@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.51.1"
   latestRelease: "v1.51.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:39:29Z
+  collectedAt: 2026-09-10T23:10:39Z
 timeline:
   created: 2020-05-07
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 9547
+  star: 9548
   watcher: 72
   fork: 950
   release: 241
@@ -87,7 +87,7 @@ total:
   commit: 3524
 ---
 path: /home/runner/.x-repo/github.com/anchore/syft
-collectedAt: 2026-09-10T20:39:37Z
+collectedAt: 2026-09-10T23:10:44Z
 loc:
   Json:
     code: 577396

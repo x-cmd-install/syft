@@ -2,26 +2,26 @@ about:
   description: "CLI tool and library for generating a Software Bill of Materials from container images and filesystems"
   license: Apache-2.0
   homepage: 
-  head: 1d25dfe
+  head: eb58f69
   archived: false
   latestVersion: "v1.51.1"
   latestRelease: "v1.51.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:29:54Z
+  collectedAt: 2026-09-11T19:26:18Z
 timeline:
   created: 2020-05-07
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-08-27
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 9550
+  star: 9553
   watcher: 72
-  fork: 950
+  fork: 951
   release: 241
   contributor: 268
-  pullRequest: 3653
-  issue: 1581
+  pullRequest: 3669
+  issue: 1582
 language:
   Go: 6319907
   Shell: 50181
@@ -33,61 +33,61 @@ recent:
   last30d:
     since: 2026-08-12
     release: 1
-    mergedPR: 35
-    openPR: 37
+    mergedPR: 42
+    openPR: 46
     closedIssue: 2
-    openIssue: 14
-    commit: 45
+    openIssue: 15
+    commit: 52
   last60d:
     since: 2026-07-13
     release: 5
-    mergedPR: 91
-    openPR: 61
+    mergedPR: 98
+    openPR: 70
     closedIssue: 14
-    openIssue: 23
-    commit: 98
+    openIssue: 24
+    commit: 105
   last90d:
     since: 2026-06-13
     release: 6
-    mergedPR: 139
-    openPR: 70
+    mergedPR: 146
+    openPR: 79
     closedIssue: 24
-    openIssue: 37
-    commit: 166
+    openIssue: 38
+    commit: 173
   last180d:
     since: 2026-03-15
     release: 12
-    mergedPR: 269
-    openPR: 97
+    mergedPR: 276
+    openPR: 106
     closedIssue: 59
-    openIssue: 58
-    commit: 280
+    openIssue: 59
+    commit: 287
   last360d:
     since: 2025-09-16
     release: 27
-    mergedPR: 548
-    openPR: 108
+    mergedPR: 555
+    openPR: 117
     closedIssue: 123
-    openIssue: 94
-    commit: 555
+    openIssue: 95
+    commit: 562
   last720d:
     since: 2024-09-21
     release: 56
-    mergedPR: 1159
-    openPR: 132
+    mergedPR: 1166
+    openPR: 141
     closedIssue: 230
-    openIssue: 229
-    commit: 1172
+    openIssue: 230
+    commit: 1179
 total:
   release: 241
-  mergedPR: 3101
-  openPR: 136
+  mergedPR: 3108
+  openPR: 145
   closedIssue: 1076
-  openIssue: 505
-  commit: 3524
+  openIssue: 506
+  commit: 3531
 ---
 path: /home/runner/.x-repo/github.com/anchore/syft
-collectedAt: 2026-09-11T05:29:59Z
+collectedAt: 2026-09-11T19:26:23Z
 loc:
   Json:
     code: 577396
@@ -125,9 +125,9 @@ loc:
     blanks: 320
     files: 30
   Dockerfile:
-    code: 712
-    comments: 275
-    blanks: 261
+    code: 711
+    comments: 277
+    blanks: 260
     files: 83
   JavaScript:
     code: 401
@@ -225,9 +225,9 @@ loc:
     blanks: 101
     files: 93
 total:
-  code: 793151
-  comments: 16919
-  blanks: 23637
+  code: 793150
+  comments: 16921
+  blanks: 23636
   files: 1950
 ---
 date: "2026-09-07"

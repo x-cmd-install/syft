@@ -14,7 +14,7 @@ x install syft
 
 ## Code insight
 
-Total: **792,672** lines of code across **1604** files in the top 5 languages.
+Total: **792,671** lines of code across **1604** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.51.1` (2026-08-27)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 9,550 · **Forks**: 950 · **Open issues**: 1,581 · **Contributors**: 268
+- **Stars**: 9,553 · **Forks**: 951 · **Open issues**: 1,582 · **Contributors**: 268
 
 ## Totals (cumulative)
 
-- **Releases**: 241 · **Merged PRs**: 3101 · **Open PRs**: 136 · **Closed issues**: 1076 · **Open issues**: 505 · **Commits**: 3524
+- **Releases**: 241 · **Merged PRs**: 3108 · **Open PRs**: 145 · **Closed issues**: 1076 · **Open issues**: 506 · **Commits**: 3531
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 35 | 37 | 2 | 14 | 45 |
-| last60d | 2026-07-13 | 5 | 91 | 61 | 14 | 23 | 98 |
-| 90d | 2026-06-13 | 6 | 139 | 70 | 24 | 37 | 166 |
-| last180d | 2026-03-15 | 12 | 269 | 97 | 59 | 58 | 280 |
-| 360d | 2025-09-16 | 27 | 548 | 108 | 123 | 94 | 555 |
-| last720d | 2024-09-21 | 56 | 1159 | 132 | 230 | 229 | 1172 |
+| 30d | 2026-08-12 | 1 | 42 | 46 | 2 | 15 | 52 |
+| last60d | 2026-07-13 | 5 | 98 | 70 | 14 | 24 | 105 |
+| 90d | 2026-06-13 | 6 | 146 | 79 | 24 | 38 | 173 |
+| last180d | 2026-03-15 | 12 | 276 | 106 | 59 | 59 | 287 |
+| 360d | 2025-09-16 | 27 | 555 | 117 | 123 | 95 | 562 |
+| last720d | 2024-09-21 | 56 | 1166 | 141 | 230 | 230 | 1179 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:30:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:26:31Z._

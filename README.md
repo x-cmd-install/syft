@@ -14,12 +14,12 @@ x install syft
 
 ## Code insight
 
-Total: **796,255** lines of code across **1614** files in the top 5 languages.
+Total: **796,468** lines of code across **1617** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 577,411 | 0 | 4 | 253 |
-| Go | 177,719 | 13,906 | 21,302 | 1203 |
+| Go | 177,932 | 13,930 | 21,358 | 1206 |
 | Xml | 27,695 | 261 | 180 | 41 |
 | Yaml | 8,010 | 182 | 544 | 88 |
 | Sh | 1,457 | 310 | 472 | 29 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.51.1` (2026-08-27)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-16
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 9,561 · **Forks**: 955 · **Open issues**: 1,583 · **Contributors**: 268
+- **Stars**: 9,567 · **Forks**: 956 · **Open issues**: 1,582 · **Contributors**: 269
 
 ## Totals (cumulative)
 
-- **Releases**: 241 · **Merged PRs**: 3122 · **Open PRs**: 141 · **Closed issues**: 1076 · **Open issues**: 507 · **Commits**: 3545
+- **Releases**: 241 · **Merged PRs**: 3124 · **Open PRs**: 140 · **Closed issues**: 1076 · **Open issues**: 506 · **Commits**: 3547
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 47 | 42 | 2 | 13 | 48 |
-| last60d | 2026-07-17 | 4 | 104 | 63 | 12 | 23 | 107 |
-| 90d | 2026-06-17 | 6 | 155 | 73 | 23 | 37 | 178 |
-| last180d | 2026-03-19 | 12 | 283 | 101 | 59 | 60 | 292 |
-| 360d | 2025-09-20 | 27 | 565 | 113 | 121 | 96 | 568 |
-| last720d | 2024-09-25 | 55 | 1174 | 137 | 227 | 229 | 1190 |
+| 30d | 2026-08-17 | 1 | 47 | 41 | 2 | 11 | 50 |
+| last60d | 2026-07-18 | 4 | 106 | 61 | 12 | 22 | 109 |
+| 90d | 2026-06-18 | 6 | 156 | 70 | 23 | 35 | 180 |
+| last180d | 2026-03-20 | 11 | 283 | 99 | 59 | 59 | 294 |
+| 360d | 2025-09-21 | 27 | 567 | 112 | 121 | 95 | 570 |
+| last720d | 2024-09-26 | 55 | 1172 | 136 | 224 | 227 | 1191 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:36:40Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:34:13Z._

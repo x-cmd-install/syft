@@ -4,7 +4,7 @@
 
 CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
-![syft](https://repo.x-cmd.io/syft.svg?lang=zh)
+[![x-cmd/install — syft Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syft.svg?lang=zh)](https://x-cmd.com/install/syft)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install syft
 
 ## 流行度
 
-- **Star**: 9,574 · **Fork**: 960 · **开放 issue**: 1,583 · **贡献者**: 269
+- **Star**: 9,588 · **Fork**: 963 · **开放 issue**: 1,583 · **贡献者**: 269
 
 ## 累计统计
 
-- **发布数**: 242 · **已合并 PR**: 3127 · **开放 PR**: 141 · **已关闭 issue**: 1078 · **开放 issue**: 505 · **提交数**: 3550
+- **发布数**: 242 · **已合并 PR**: 3131 · **开放 PR**: 143 · **已关闭 issue**: 1078 · **开放 issue**: 505 · **提交数**: 3554
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 47 | 42 | 2 | 11 | 53 |
-| last60d | 2026-07-20 | 5 | 107 | 62 | 12 | 23 | 112 |
-| 90d | 2026-06-20 | 7 | 156 | 71 | 23 | 36 | 183 |
-| last180d | 2026-03-22 | 12 | 285 | 100 | 58 | 59 | 297 |
-| 360d | 2025-09-23 | 28 | 566 | 113 | 120 | 96 | 573 |
-| last720d | 2024-09-28 | 56 | 1173 | 137 | 223 | 227 | 1187 |
+| 30d | 2026-08-21 | 2 | 43 | 39 | 2 | 9 | 56 |
+| last60d | 2026-07-22 | 4 | 107 | 61 | 12 | 22 | 115 |
+| 90d | 2026-06-22 | 7 | 152 | 73 | 23 | 36 | 186 |
+| last180d | 2026-03-24 | 12 | 281 | 102 | 57 | 58 | 300 |
+| 360d | 2025-09-25 | 28 | 564 | 114 | 120 | 95 | 576 |
+| last720d | 2024-09-30 | 56 | 1175 | 139 | 223 | 227 | 1191 |
 
 ## Release 资产
 
@@ -109,4 +109,4 @@ syft 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:20:14Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:31:13Z._

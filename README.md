@@ -4,7 +4,7 @@
 
 CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
-![syft](https://repo.x-cmd.io/syft.svg)
+[![x-cmd/install — syft Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syft.svg)](https://x-cmd.com/install/syft)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,574 · **Forks**: 960 · **Open issues**: 1,583 · **Contributors**: 269
+- **Stars**: 9,588 · **Forks**: 963 · **Open issues**: 1,583 · **Contributors**: 269
 
 ## Totals (cumulative)
 
-- **Releases**: 242 · **Merged PRs**: 3127 · **Open PRs**: 141 · **Closed issues**: 1078 · **Open issues**: 505 · **Commits**: 3550
+- **Releases**: 242 · **Merged PRs**: 3131 · **Open PRs**: 143 · **Closed issues**: 1078 · **Open issues**: 505 · **Commits**: 3554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 47 | 42 | 2 | 11 | 53 |
-| last60d | 2026-07-20 | 5 | 107 | 62 | 12 | 23 | 112 |
-| 90d | 2026-06-20 | 7 | 156 | 71 | 23 | 36 | 183 |
-| last180d | 2026-03-22 | 12 | 285 | 100 | 58 | 59 | 297 |
-| 360d | 2025-09-23 | 28 | 566 | 113 | 120 | 96 | 573 |
-| last720d | 2024-09-28 | 56 | 1173 | 137 | 223 | 227 | 1187 |
+| 30d | 2026-08-21 | 2 | 43 | 39 | 2 | 9 | 56 |
+| last60d | 2026-07-22 | 4 | 107 | 61 | 12 | 22 | 115 |
+| 90d | 2026-06-22 | 7 | 152 | 73 | 23 | 36 | 186 |
+| last180d | 2026-03-24 | 12 | 281 | 102 | 57 | 58 | 300 |
+| 360d | 2025-09-25 | 28 | 564 | 114 | 120 | 95 | 576 |
+| last720d | 2024-09-30 | 56 | 1175 | 139 | 223 | 227 | 1191 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:20:13Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:31:12Z._

@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,588 · **Forks**: 963 · **Open issues**: 1,583 · **Contributors**: 269
+- **Stars**: 9,592 · **Forks**: 966 · **Open issues**: 1,584 · **Contributors**: 269
 
 ## Totals (cumulative)
 
-- **Releases**: 242 · **Merged PRs**: 3131 · **Open PRs**: 143 · **Closed issues**: 1078 · **Open issues**: 505 · **Commits**: 3554
+- **Releases**: 242 · **Merged PRs**: 3131 · **Open PRs**: 146 · **Closed issues**: 1078 · **Open issues**: 506 · **Commits**: 3554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 43 | 39 | 2 | 9 | 56 |
-| last60d | 2026-07-22 | 4 | 107 | 61 | 12 | 22 | 115 |
-| 90d | 2026-06-22 | 7 | 152 | 73 | 23 | 36 | 186 |
-| last180d | 2026-03-24 | 12 | 281 | 102 | 57 | 58 | 300 |
-| 360d | 2025-09-25 | 28 | 564 | 114 | 120 | 95 | 576 |
-| last720d | 2024-09-30 | 56 | 1175 | 139 | 223 | 227 | 1191 |
+| 30d | 2026-08-22 | 2 | 43 | 40 | 2 | 10 | 44 |
+| last60d | 2026-07-23 | 4 | 106 | 64 | 12 | 23 | 101 |
+| 90d | 2026-06-23 | 7 | 152 | 76 | 23 | 36 | 170 |
+| last180d | 2026-03-25 | 12 | 281 | 105 | 57 | 59 | 291 |
+| 360d | 2025-09-26 | 28 | 563 | 117 | 120 | 96 | 567 |
+| last720d | 2024-10-01 | 56 | 1174 | 142 | 223 | 228 | 1190 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:31:12Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:33:29Z._

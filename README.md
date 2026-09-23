@@ -4,7 +4,7 @@
 
 CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
-[![x-cmd/install — syft Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syft.svg)](https://x-cmd.com/install/syft)
+[![x-cmd/install — syft Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/syft.svg)](https://x-cmd.com/install/syft)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,596 · **Forks**: 963 · **Open issues**: 1,586 · **Contributors**: 269
+- **Stars**: 9,601 · **Forks**: 966 · **Open issues**: 1,588 · **Contributors**: 269
 
 ## Totals (cumulative)
 
-- **Releases**: 242 · **Merged PRs**: 3131 · **Open PRs**: 147 · **Closed issues**: 1079 · **Open issues**: 507 · **Commits**: 3554
+- **Releases**: 242 · **Merged PRs**: 3131 · **Open PRs**: 149 · **Closed issues**: 1079 · **Open issues**: 509 · **Commits**: 3554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 43 | 39 | 2 | 12 | 44 |
-| last60d | 2026-07-24 | 4 | 99 | 65 | 10 | 25 | 101 |
-| 90d | 2026-06-24 | 7 | 148 | 78 | 21 | 37 | 170 |
-| last180d | 2026-03-26 | 12 | 278 | 107 | 57 | 60 | 291 |
-| 360d | 2025-09-27 | 28 | 563 | 119 | 120 | 98 | 567 |
-| last720d | 2024-10-02 | 56 | 1172 | 143 | 223 | 230 | 1187 |
+| 30d | 2026-08-24 | 2 | 42 | 38 | 1 | 12 | 44 |
+| last60d | 2026-07-25 | 4 | 98 | 67 | 10 | 27 | 101 |
+| 90d | 2026-06-25 | 7 | 147 | 80 | 19 | 38 | 170 |
+| last180d | 2026-03-27 | 12 | 278 | 109 | 56 | 61 | 291 |
+| 360d | 2025-09-28 | 28 | 563 | 121 | 120 | 100 | 567 |
+| last720d | 2024-10-03 | 56 | 1170 | 145 | 223 | 231 | 1185 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:34:50Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:40:20Z._

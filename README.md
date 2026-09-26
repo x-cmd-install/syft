@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.52.0` (2026-09-17)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 9,606 · **Forks**: 968 · **Open issues**: 1,590 · **Contributors**: 272
+- **Stars**: 9,612 · **Forks**: 970 · **Open issues**: 1,590 · **Contributors**: 272
 
 ## Totals (cumulative)
 
-- **Releases**: 242 · **Merged PRs**: 3140 · **Open PRs**: 149 · **Closed issues**: 1082 · **Open issues**: 508 · **Commits**: 3560
+- **Releases**: 242 · **Merged PRs**: 3147 · **Open PRs**: 151 · **Closed issues**: 1082 · **Open issues**: 508 · **Commits**: 3567
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 48 | 30 | 4 | 10 | 50 |
-| last60d | 2026-07-27 | 4 | 101 | 61 | 13 | 26 | 107 |
-| 90d | 2026-06-27 | 6 | 151 | 76 | 21 | 37 | 176 |
-| last180d | 2026-03-29 | 12 | 287 | 109 | 58 | 60 | 297 |
-| 360d | 2025-09-30 | 28 | 571 | 121 | 123 | 99 | 573 |
-| last720d | 2024-10-05 | 56 | 1175 | 145 | 225 | 230 | 1188 |
+| 30d | 2026-08-27 | 2 | 55 | 30 | 4 | 9 | 57 |
+| last60d | 2026-07-28 | 4 | 106 | 61 | 11 | 26 | 114 |
+| 90d | 2026-06-28 | 6 | 158 | 78 | 21 | 37 | 183 |
+| last180d | 2026-03-30 | 12 | 292 | 111 | 57 | 60 | 305 |
+| 360d | 2025-10-01 | 28 | 576 | 123 | 122 | 99 | 581 |
+| last720d | 2024-10-06 | 56 | 1181 | 147 | 225 | 230 | 1192 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:21:05Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:20:55Z._

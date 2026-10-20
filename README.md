@@ -14,12 +14,12 @@ x install syft
 
 ## Code insight
 
-Total: **808,382** lines of code across **1669** files in the top 5 languages.
+Total: **808,705** lines of code across **1674** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 582,600 | 0 | 4 | 260 |
-| Go | 184,083 | 15,073 | 22,135 | 1243 |
+| Go | 184,406 | 15,110 | 22,178 | 1248 |
 | Xml | 27,695 | 261 | 180 | 41 |
 | Yaml | 8,159 | 183 | 545 | 92 |
 | Sh | 1,744 | 353 | 528 | 33 |
@@ -41,63 +41,63 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.54.1` (2026-10-06)
-- **Last commit**: 2026-10-16
+- **Latest**: `v1.55.0` (2026-10-19)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 9,697 · **Forks**: 1,002 · **Open issues**: 1,609 · **Contributors**: 287
+- **Stars**: 9,703 · **Forks**: 1,007 · **Open issues**: 1,609 · **Contributors**: 287
 
 ## Totals (cumulative)
 
-- **Releases**: 244 · **Merged PRs**: 3214 · **Open PRs**: 164 · **Closed issues**: 1093 · **Open issues**: 516 · **Commits**: 3634
+- **Releases**: 245 · **Merged PRs**: 3215 · **Open PRs**: 165 · **Closed issues**: 1093 · **Open issues**: 516 · **Commits**: 3635
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 68 | 38 | 6 | 18 | 74 |
-| last60d | 2026-08-20 | 4 | 124 | 67 | 10 | 29 | 128 |
-| 90d | 2026-07-21 | 7 | 189 | 85 | 20 | 40 | 189 |
-| last180d | 2026-04-22 | 13 | 311 | 117 | 53 | 64 | 326 |
-| 360d | 2025-10-24 | 27 | 598 | 136 | 125 | 107 | 595 |
-| last720d | 2024-10-29 | 54 | 1188 | 159 | 224 | 228 | 1204 |
+| 30d | 2026-09-20 | 3 | 69 | 39 | 5 | 18 | 75 |
+| last60d | 2026-08-21 | 5 | 119 | 68 | 10 | 26 | 129 |
+| 90d | 2026-07-22 | 7 | 188 | 83 | 20 | 40 | 190 |
+| last180d | 2026-04-23 | 13 | 310 | 117 | 49 | 63 | 327 |
+| 360d | 2025-10-25 | 28 | 597 | 136 | 125 | 107 | 596 |
+| last720d | 2024-10-30 | 55 | 1187 | 160 | 224 | 228 | 1202 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [syft_1.54.1_checksums.txt](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_checksums.txt) | 2.6 KiB | `other` |
-| [syft_1.54.1_checksums.txt.sigstore.json](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_checksums.txt.sigstore.json) | 9.8 KiB | `other` |
-| [syft_1.54.1_darwin_amd64.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_darwin_amd64.sbom) | 273.8 KiB | `native/darwin/x64` |
-| [syft_1.54.1_darwin_amd64.tar.gz](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_darwin_amd64.tar.gz) | 29.1 MiB | `native/darwin/x64` |
-| [syft_1.54.1_darwin_arm64.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_darwin_arm64.sbom) | 273.8 KiB | `native/darwin/arm64` |
-| [syft_1.54.1_darwin_arm64.tar.gz](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_darwin_arm64.tar.gz) | 26.6 MiB | `native/darwin/arm64` |
-| [syft_1.54.1_linux_amd64.deb](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_amd64.deb) | 29.5 MiB | `native/linux/x64` |
-| [syft_1.54.1_linux_amd64.rpm](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_amd64.rpm) | 29.5 MiB | `native/linux/x64` |
-| [syft_1.54.1_linux_amd64.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_amd64.sbom) | 295.8 KiB | `native/linux/x64` |
-| [syft_1.54.1_linux_amd64.tar.gz](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_amd64.tar.gz) | 29.5 MiB | `native/linux/x64` |
-| [syft_1.54.1_linux_arm64.deb](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_arm64.deb) | 27.0 MiB | `native/linux/arm64` |
-| [syft_1.54.1_linux_arm64.rpm](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_arm64.rpm) | 26.8 MiB | `native/linux/arm64` |
-| [syft_1.54.1_linux_arm64.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_arm64.sbom) | 295.8 KiB | `native/linux/arm64` |
-| [syft_1.54.1_linux_arm64.tar.gz](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_arm64.tar.gz) | 27.0 MiB | `native/linux/arm64` |
-| [syft_1.54.1_linux_ppc64le.deb](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_ppc64le.deb) | 27.0 MiB | `other` |
-| [syft_1.54.1_linux_ppc64le.rpm](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_ppc64le.rpm) | 26.8 MiB | `other` |
-| [syft_1.54.1_linux_ppc64le.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_ppc64le.sbom) | 295.5 KiB | `other` |
-| [syft_1.54.1_linux_ppc64le.tar.gz](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_ppc64le.tar.gz) | 27.0 MiB | `native/unknown` |
-| [syft_1.54.1_linux_riscv64.deb](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_riscv64.deb) | 28.0 MiB | `native/linux/riscv64` |
-| [syft_1.54.1_linux_riscv64.rpm](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_riscv64.rpm) | 27.9 MiB | `native/linux/riscv64` |
-| [syft_1.54.1_linux_riscv64.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_riscv64.sbom) | 294.5 KiB | `native/linux/riscv64` |
-| [syft_1.54.1_linux_riscv64.tar.gz](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_riscv64.tar.gz) | 28.0 MiB | `native/linux/riscv64` |
-| [syft_1.54.1_linux_s390x.deb](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_s390x.deb) | 28.5 MiB | `runtime/deb/s390x` |
-| [syft_1.54.1_linux_s390x.rpm](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_s390x.rpm) | 28.4 MiB | `other` |
-| [syft_1.54.1_linux_s390x.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_s390x.sbom) | 295.0 KiB | `other` |
-| [syft_1.54.1_linux_s390x.tar.gz](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_linux_s390x.tar.gz) | 28.5 MiB | `native/unknown` |
-| [syft_1.54.1_windows_amd64.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_windows_amd64.sbom) | 282.4 KiB | `native/win/x64` |
-| [syft_1.54.1_windows_amd64.zip](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_windows_amd64.zip) | 28.5 MiB | `native/win/x64` |
-| [syft_1.54.1_windows_arm64.sbom](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_windows_arm64.sbom) | 282.5 KiB | `native/win/arm64` |
-| [syft_1.54.1_windows_arm64.zip](https://github.com/anchore/syft/releases/download/v1.54.1/syft_1.54.1_windows_arm64.zip) | 25.6 MiB | `native/win/arm64` |
+| [syft_1.55.0_checksums.txt](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_checksums.txt) | 2.6 KiB | `other` |
+| [syft_1.55.0_checksums.txt.sigstore.json](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_checksums.txt.sigstore.json) | 10.2 KiB | `other` |
+| [syft_1.55.0_darwin_amd64.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_amd64.sbom) | 273.0 KiB | `native/darwin/x64` |
+| [syft_1.55.0_darwin_amd64.tar.gz](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_amd64.tar.gz) | 29.2 MiB | `native/darwin/x64` |
+| [syft_1.55.0_darwin_arm64.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_arm64.sbom) | 273.0 KiB | `native/darwin/arm64` |
+| [syft_1.55.0_darwin_arm64.tar.gz](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_arm64.tar.gz) | 26.8 MiB | `native/darwin/arm64` |
+| [syft_1.55.0_linux_amd64.deb](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.deb) | 29.7 MiB | `native/linux/x64` |
+| [syft_1.55.0_linux_amd64.rpm](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.rpm) | 29.7 MiB | `native/linux/x64` |
+| [syft_1.55.0_linux_amd64.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.sbom) | 295.0 KiB | `native/linux/x64` |
+| [syft_1.55.0_linux_amd64.tar.gz](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.tar.gz) | 29.8 MiB | `native/linux/x64` |
+| [syft_1.55.0_linux_arm64.deb](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.deb) | 27.2 MiB | `native/linux/arm64` |
+| [syft_1.55.0_linux_arm64.rpm](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.rpm) | 27.0 MiB | `native/linux/arm64` |
+| [syft_1.55.0_linux_arm64.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.sbom) | 295.0 KiB | `native/linux/arm64` |
+| [syft_1.55.0_linux_arm64.tar.gz](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.tar.gz) | 27.2 MiB | `native/linux/arm64` |
+| [syft_1.55.0_linux_ppc64le.deb](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.deb) | 27.1 MiB | `other` |
+| [syft_1.55.0_linux_ppc64le.rpm](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.rpm) | 27.0 MiB | `other` |
+| [syft_1.55.0_linux_ppc64le.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.sbom) | 295.6 KiB | `other` |
+| [syft_1.55.0_linux_ppc64le.tar.gz](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.tar.gz) | 27.2 MiB | `native/unknown` |
+| [syft_1.55.0_linux_riscv64.deb](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.deb) | 28.2 MiB | `native/linux/riscv64` |
+| [syft_1.55.0_linux_riscv64.rpm](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.rpm) | 28.1 MiB | `native/linux/riscv64` |
+| [syft_1.55.0_linux_riscv64.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.sbom) | 294.6 KiB | `native/linux/riscv64` |
+| [syft_1.55.0_linux_riscv64.tar.gz](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.tar.gz) | 28.2 MiB | `native/linux/riscv64` |
+| [syft_1.55.0_linux_s390x.deb](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.deb) | 28.7 MiB | `runtime/deb/s390x` |
+| [syft_1.55.0_linux_s390x.rpm](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.rpm) | 28.6 MiB | `other` |
+| [syft_1.55.0_linux_s390x.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.sbom) | 295.0 KiB | `other` |
+| [syft_1.55.0_linux_s390x.tar.gz](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.tar.gz) | 28.7 MiB | `native/unknown` |
+| [syft_1.55.0_windows_amd64.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_amd64.sbom) | 281.6 KiB | `native/win/x64` |
+| [syft_1.55.0_windows_amd64.zip](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_amd64.zip) | 28.6 MiB | `native/win/x64` |
+| [syft_1.55.0_windows_arm64.sbom](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_arm64.sbom) | 281.6 KiB | `native/win/arm64` |
+| [syft_1.55.0_windows_arm64.zip](https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_arm64.zip) | 25.8 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -108,4 +108,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:03:51Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:15:52Z._

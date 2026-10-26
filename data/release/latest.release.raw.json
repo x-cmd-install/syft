@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2690,
       "digest": "sha256:aba5ac8ee870bb93fd3b2058471ffe7e57492ba673b5e0bcbfca92006c2f4dc7",
-      "download_count": 113912,
+      "download_count": 128288,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10468,
       "digest": "sha256:52f55787eebb09e2d24042481a16663c8f094101370bb7748a2dbaaa32ee839a",
-      "download_count": 5529,
+      "download_count": 6625,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:25Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 279504,
       "digest": "sha256:5ae210d803dd7752a4fa8645ebfae653eb6dc260c37f25c666d6a9352ec1a545",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_amd64.sbom"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30658726,
       "digest": "sha256:e2e5831cbabaec9a36fe65c34755c1113982c842a685edce3ce0b54a0ded8003",
-      "download_count": 556,
+      "download_count": 635,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 279506,
       "digest": "sha256:eeb394aab0eb201f5080d644248ad2eec38b6b77534b8463ed16272de34e28a3",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_arm64.sbom"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 28090287,
       "digest": "sha256:1217c258bd5eb91ef3189cf22a82e02f9cac07e4ce934350f428e93aff674625",
-      "download_count": 2168,
+      "download_count": 2588,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 31191188,
       "digest": "sha256:070620d4a7ed6a2fbca67dae6cd0622c05354b351e171f325f0a3c9e7f42adab",
-      "download_count": 617,
+      "download_count": 673,
       "created_at": "2026-10-19T19:01:23Z",
       "updated_at": "2026-10-19T19:01:25Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 31113913,
       "digest": "sha256:59d7787e0c7ca487338427f18e566df89b030f3f0431686c6f7444c115cce4a0",
-      "download_count": 266,
+      "download_count": 294,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 302110,
       "digest": "sha256:61a6d924be27f362dea10a82c386c64696bc67b0698ba773658ac77e55f7e521",
-      "download_count": 59,
+      "download_count": 68,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.sbom"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 31198534,
       "digest": "sha256:bb65249542db5fedeeb4d3f9b018b75e7264dbfbbb10486f044581a92f90490d",
-      "download_count": 119404,
+      "download_count": 135986,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 28480064,
       "digest": "sha256:93f9fccf80850e3fedac7963aa87dc61a01638a45858dd558e6aef655ad938ea",
-      "download_count": 118,
+      "download_count": 135,
       "created_at": "2026-10-19T19:01:23Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 28328792,
       "digest": "sha256:d437c942bc81737958e50687c898291e0f60552fb479eb9b92dc18c938d1a173",
-      "download_count": 71,
+      "download_count": 83,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:22Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 302112,
       "digest": "sha256:7a848c8da63a0df515f95c4d805b90a95bf2521456924c1e58a5326bd448a992",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.sbom"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 28485268,
       "digest": "sha256:929bd163db2d7cd2255d3bcb8967208079813d7b46b0c952f7b794d8e2c7d304",
-      "download_count": 17259,
+      "download_count": 19815,
       "created_at": "2026-10-19T19:01:21Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 28464754,
       "digest": "sha256:e41efc6e4d8b9b8ba6161295246d58042fea946f7f406c3595668ae8d1cadbf3",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:22Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.deb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 28308939,
       "digest": "sha256:d245a996a4954183400731212e15ba5e0c4ee3e8defa90fdbbc21a4696b51afa",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.rpm"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 302710,
       "digest": "sha256:84e3e9ec732cb704e8a73f107e691228948eae94eecba6aade09825653bf4949",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.sbom"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 28469576,
       "digest": "sha256:771e7c3b3e91cf9ded39079366ebe5693a16b4f2723cc72c8c6487e457726ea4",
-      "download_count": 82,
+      "download_count": 94,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_ppc64le.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 29590188,
       "digest": "sha256:f8314acc0197f19bd059217dfe329d703836c71ec759eb0c9132bbba6d1b5fed",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 29477114,
       "digest": "sha256:b43c611f215999e2ab14618467a633d4610fc13c83e5f08e640d3b86a1d62f9b",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.rpm"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 301688,
       "digest": "sha256:eb22cd4aeb303fe9b6cf2f9d5e181aeaf659532dfd908d235e5c9fb79a449aac",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.sbom"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 29594081,
       "digest": "sha256:ad9d50073431bdb9f54a71648eb8ea173021b283b5191b899da392c9abcc3168",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_riscv64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 30119464,
       "digest": "sha256:415d84523694e108131a2a84508334d7304ed18f46fca48e28d8c2f7ca914f17",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-19T19:01:23Z",
       "updated_at": "2026-10-19T19:01:25Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.deb"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 30033993,
       "digest": "sha256:ab678fa06f3de843c7ec7b139a1a88e5e072ae8fd3eb72341701256bdf524d87",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.rpm"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 302091,
       "digest": "sha256:c8df893dce54929c568da7063b8bb95dd58c21d6df804c1d66bbb222199e4532",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:25Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.sbom"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 30124657,
       "digest": "sha256:614aec958214cf9fc663b401ac648443c078c844603e16bde2733bee1f002b80",
-      "download_count": 79,
+      "download_count": 91,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_linux_s390x.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 288326,
       "digest": "sha256:1c3521fba6c3ccd9f90c0b16ba77ef1dc58c7a487d5c5a8c60aaa96095f0533b",
-      "download_count": 44,
+      "download_count": 48,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_amd64.sbom"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 30025255,
       "digest": "sha256:ada4c9b93af575f479ce80fce6629897272a2d41f300a14bc49bace020767ca2",
-      "download_count": 3925,
+      "download_count": 4331,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_amd64.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 288328,
       "digest": "sha256:ba0251cbaef7940bdd25e48fe7367aba1beb616d9e90edc73cad155a4e0cd7d1",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-10-19T19:01:24Z",
       "updated_at": "2026-10-19T19:01:24Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_arm64.sbom"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 27023664,
       "digest": "sha256:f52f7796e41e4d1ae511c228c99239fd09887077336dcb7a8c2aa7046ed7c816",
-      "download_count": 160,
+      "download_count": 178,
       "created_at": "2026-10-19T19:01:20Z",
       "updated_at": "2026-10-19T19:01:23Z",
       "browser_download_url": "https://github.com/anchore/syft/releases/download/v1.55.0/syft_1.55.0_windows_arm64.zip"

@@ -1,15 +1,22 @@
-- repo: parrot
-  subrepo: parrot/main
+- repo: homebrew
+  srcname: syft
+  visiblename: syft
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI for generating a Software Bill of Materials from container images
+- repo: kali_rolling
+  subrepo: main
   srcname: syft
   binnames:
     - syft
   visiblename: syft
-  version: 1.38.0
-  origversion: 1.38.0+ds-0parrot1
+  version: 1.54.1
+  origversion: 1.54.1+ds-0kali1
   status: outdated
   maintainers:
-    - team@parrotsec.org
-    - palinuro@parrotsec.org
+    - devel@kali.org
+    - sophie@kali.org
   categories:
     - golang
 - repo: alpine_3_17
@@ -103,156 +110,156 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
+- repo: homebrew
   srcname: syft
-  binname: syft-fish-completion
-  visiblename: syft-fish-completion
-  version: 0.98.0
-  origversion: 0.98.0-r3
-  status: outdated
-  summary: Fish completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: syft
-  binname: syft-zsh-completion
-  visiblename: syft-zsh-completion
-  version: 0.98.0
-  origversion: 0.98.0-r3
-  status: outdated
-  summary: Zsh completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: syft
-  binname: syft
   visiblename: syft
-  version: 1.4.1
-  origversion: 1.4.1-r2
-  status: outdated
-  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: syft
-  binname: syft-bash-completion
-  visiblename: syft-bash-completion
-  version: 1.4.1
-  origversion: 1.4.1-r2
-  status: outdated
-  summary: Bash completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: syft
-  binname: syft-fish-completion
-  visiblename: syft-fish-completion
-  version: 1.4.1
-  origversion: 1.4.1-r2
-  status: outdated
-  summary: Fish completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: syft
-  binname: syft-zsh-completion
-  visiblename: syft-zsh-completion
-  version: 1.4.1
-  origversion: 1.4.1-r2
-  status: outdated
-  summary: Zsh completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: syft
-  binname: syft
-  visiblename: syft
-  version: 1.19.0
-  origversion: 1.19.0-r5
-  status: outdated
-  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: syft
-  binname: syft-bash-completion
-  visiblename: syft-bash-completion
-  version: 1.19.0
-  origversion: 1.19.0-r5
-  status: outdated
-  summary: Bash completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: syft
-  binname: syft-fish-completion
-  visiblename: syft-fish-completion
-  version: 1.19.0
-  origversion: 1.19.0-r5
-  status: outdated
-  summary: Fish completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: syft
-  binname: syft-zsh-completion
-  visiblename: syft-zsh-completion
-  version: 1.19.0
-  origversion: 1.19.0-r5
-  status: outdated
-  summary: Zsh completions for syft
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: syft
-  binname: syft
-  visiblename: syft
-  version: 1.31.0
-  origversion: 1.31.0-r4
-  status: outdated
-  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: chocolatey
-  binname: syft
-  visiblename: Syft
   version: 1.55.0
   origversion: null
   status: newest
-  summary: A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+  summary: CLI for generating a Software Bill of Materials from container images
+- repo: alpine_3_19
+  subrepo: community
+  srcname: syft
+  binname: syft-fish-completion
+  visiblename: syft-fish-completion
+  version: 0.98.0
+  origversion: 0.98.0-r3
+  status: outdated
+  summary: Fish completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: syft
+  binname: syft-zsh-completion
+  visiblename: syft-zsh-completion
+  version: 0.98.0
+  origversion: 0.98.0-r3
+  status: outdated
+  summary: Zsh completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: syft
+  binname: syft
+  visiblename: syft
+  version: 1.4.1
+  origversion: 1.4.1-r2
+  status: outdated
+  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: syft
+  binname: syft-bash-completion
+  visiblename: syft-bash-completion
+  version: 1.4.1
+  origversion: 1.4.1-r2
+  status: outdated
+  summary: Bash completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: syft
+  binname: syft-fish-completion
+  visiblename: syft-fish-completion
+  version: 1.4.1
+  origversion: 1.4.1-r2
+  status: outdated
+  summary: Fish completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: syft
+  binname: syft-zsh-completion
+  visiblename: syft-zsh-completion
+  version: 1.4.1
+  origversion: 1.4.1-r2
+  status: outdated
+  summary: Zsh completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: syft
+  binname: syft
+  visiblename: syft
+  version: 1.19.0
+  origversion: 1.19.0-r5
+  status: outdated
+  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: syft
+  binname: syft-bash-completion
+  visiblename: syft-bash-completion
+  version: 1.19.0
+  origversion: 1.19.0-r5
+  status: outdated
+  summary: Bash completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: syft
+  binname: syft-fish-completion
+  visiblename: syft-fish-completion
+  version: 1.19.0
+  origversion: 1.19.0-r5
+  status: outdated
+  summary: Fish completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: syft
+  binname: syft-zsh-completion
+  visiblename: syft-zsh-completion
+  version: 1.19.0
+  origversion: 1.19.0-r5
+  status: outdated
+  summary: Zsh completions for syft
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: syft
+  binname: syft
+  visiblename: syft
+  version: 1.31.0
+  origversion: 1.31.0-r4
+  status: outdated
+  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: syft
@@ -383,20 +390,6 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: syft
-  binnames:
-    - syft
-  visiblename: syft
-  version: 1.38.0
-  origversion: 1.38.0+ds-0parrot1
-  status: outdated
-  maintainers:
-    - team@parrotsec.org
-    - palinuro@parrotsec.org
-  categories:
-    - golang
 - repo: alpine_3_24
   subrepo: community
   srcname: syft
@@ -547,6 +540,13 @@
   summary: SBOM generator CLI for container images, filesystems and binaries (zsh completions)
   licenses:
     - Apache-2.0
+- repo: chocolatey
+  binname: syft
+  visiblename: Syft
+  version: 1.55.0
+  origversion: null
+  status: newest
+  summary: A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 - repo: freebsd
   srcname: security/syft
   binname: syft
@@ -637,34 +637,6 @@
     - Apache-2.0
   categories:
     - app-containers
-- repo: homebrew
-  srcname: syft
-  visiblename: syft
-  version: 1.55.0
-  origversion: null
-  status: newest
-  summary: CLI for generating a Software Bill of Materials from container images
-- repo: homebrew
-  srcname: syft
-  visiblename: syft
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CLI for generating a Software Bill of Materials from container images
-- repo: kali_rolling
-  subrepo: main
-  srcname: syft
-  binnames:
-    - syft
-  visiblename: syft
-  version: 1.54.1
-  origversion: 1.54.1+ds-0kali1
-  status: outdated
-  maintainers:
-    - devel@kali.org
-    - sophie@kali.org
-  categories:
-    - golang
 - repo: liguros_stable
   srcname: app-containers/syft
   visiblename: app-containers/syft
@@ -969,9 +941,9 @@
     - syft-fish-completion
     - syft-zsh-completion
   visiblename: syft
-  version: 1.54.1
-  origversion: 1.54.1-1.1
-  status: outdated
+  version: 1.55.0
+  origversion: 1.55.0-1.1
+  status: newest
   summary: CLI tool and library for generating a Software Bill of Materials
   licenses:
     - Apache-2.0
@@ -988,6 +960,34 @@
   summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   licenses:
     - Apache-2.0
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: syft
+  binnames:
+    - syft
+  visiblename: syft
+  version: 1.38.0
+  origversion: 1.38.0+ds-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+    - palinuro@parrotsec.org
+  categories:
+    - golang
+- repo: parrot
+  subrepo: parrot/main
+  srcname: syft
+  binnames:
+    - syft
+  visiblename: syft
+  version: 1.38.0
+  origversion: 1.38.0+ds-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+    - palinuro@parrotsec.org
+  categories:
+    - golang
 - repo: pkgsrc_2026_2
   srcname: devel/syft
   binname: syft

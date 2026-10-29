@@ -14,14 +14,14 @@ x install syft
 
 ## Code insight
 
-Total: **808,856** lines of code across **1674** files in the top 5 languages.
+Total: **809,054** lines of code across **1674** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 582,619 | 0 | 4 | 260 |
-| Go | 184,538 | 15,142 | 22,188 | 1248 |
+| Go | 184,662 | 15,148 | 22,188 | 1248 |
 | Xml | 27,695 | 261 | 180 | 41 |
-| Yaml | 8,159 | 183 | 545 | 92 |
+| Yaml | 8,233 | 183 | 556 | 92 |
 | Sh | 1,744 | 353 | 528 | 33 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.55.0` (2026-10-19)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-28
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 9,776 · **Forks**: 1,023 · **Open issues**: 1,621 · **Contributors**: 288
+- **Stars**: 9,785 · **Forks**: 1,026 · **Open issues**: 1,621 · **Contributors**: 289
 
 ## Totals (cumulative)
 
-- **Releases**: 245 · **Merged PRs**: 3229 · **Open PRs**: 173 · **Closed issues**: 1095 · **Open issues**: 526 · **Commits**: 3651
+- **Releases**: 245 · **Merged PRs**: 3231 · **Open PRs**: 174 · **Closed issues**: 1097 · **Open issues**: 524 · **Commits**: 3653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 3 | 64 | 46 | 2 | 25 | 46 |
-| last60d | 2026-08-29 | 4 | 124 | 63 | 10 | 33 | 135 |
-| 90d | 2026-07-30 | 6 | 182 | 88 | 16 | 48 | 183 |
-| last180d | 2026-05-01 | 13 | 314 | 122 | 46 | 72 | 338 |
-| 360d | 2025-11-02 | 28 | 599 | 144 | 125 | 114 | 601 |
-| last720d | 2024-11-07 | 54 | 1189 | 167 | 222 | 234 | 1206 |
+| 30d | 2026-09-29 | 3 | 51 | 48 | 3 | 24 | 48 |
+| last60d | 2026-08-30 | 4 | 125 | 65 | 11 | 32 | 136 |
+| 90d | 2026-07-31 | 6 | 171 | 90 | 17 | 47 | 184 |
+| last180d | 2026-05-02 | 12 | 310 | 117 | 48 | 70 | 339 |
+| 360d | 2025-11-03 | 28 | 596 | 145 | 126 | 112 | 602 |
+| last720d | 2024-11-08 | 54 | 1188 | 168 | 224 | 232 | 1207 |
 
 ## Release assets
 
@@ -101,13 +101,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **84** distros on [repology.org](https://repology.org/project/syft). **6** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
+Reported by **84** distros on [repology.org](https://repology.org/project/syft). **11** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.55.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.54.1` | ⚠️ outdated |
+| Homebrew | `1.55.0` | ✅ latest |
+| Nix unstable | `1.55.0` | ✅ latest |
 | Void | `1.42.2` | ⚠️ outdated |
 | Alpine edge | `1.54.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.55.0` | ✅ latest |
@@ -121,4 +121,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:17:30Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:15:27Z._

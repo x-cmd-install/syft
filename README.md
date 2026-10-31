@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.55.0` (2026-10-19)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 9,793 · **Forks**: 1,032 · **Open issues**: 1,622 · **Contributors**: 292
+- **Stars**: 9,805 · **Forks**: 1,035 · **Open issues**: 1,623 · **Contributors**: 292
 
 ## Totals (cumulative)
 
-- **Releases**: 245 · **Merged PRs**: 3236 · **Open PRs**: 173 · **Closed issues**: 1098 · **Open issues**: 524 · **Commits**: 3658
+- **Releases**: 245 · **Merged PRs**: 3244 · **Open PRs**: 176 · **Closed issues**: 1098 · **Open issues**: 525 · **Commits**: 3666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 3 | 52 | 51 | 3 | 24 | 53 |
-| last60d | 2026-08-31 | 4 | 129 | 66 | 11 | 33 | 141 |
-| 90d | 2026-08-01 | 6 | 175 | 91 | 17 | 48 | 189 |
-| last180d | 2026-05-03 | 12 | 315 | 118 | 46 | 70 | 344 |
-| 360d | 2025-11-04 | 27 | 601 | 145 | 126 | 113 | 607 |
-| last720d | 2024-11-09 | 54 | 1193 | 167 | 224 | 233 | 1211 |
+| 30d | 2026-10-01 | 3 | 55 | 54 | 3 | 25 | 61 |
+| last60d | 2026-09-01 | 4 | 137 | 69 | 11 | 34 | 149 |
+| 90d | 2026-08-02 | 6 | 182 | 92 | 17 | 49 | 197 |
+| last180d | 2026-05-04 | 12 | 322 | 120 | 46 | 71 | 352 |
+| 360d | 2025-11-05 | 27 | 608 | 148 | 126 | 114 | 615 |
+| last720d | 2024-11-10 | 54 | 1201 | 170 | 223 | 234 | 1219 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **84** distros on [repology.org](https://repology.org/project/syft). **11** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **84** distros on [repology.org](https://repology.org/project/syft). **13** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -121,4 +121,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:11:52Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:02:09Z._

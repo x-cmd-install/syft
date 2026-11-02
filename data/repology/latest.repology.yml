@@ -1,36 +1,3 @@
-- repo: pkgsrc_current
-  srcname: devel/syft
-  binname: syft
-  visiblename: devel/syft
-  version: 0.65.0
-  origversion: 0.65.0nb41
-  status: outdated
-  summary: Generate Software Bill of Materials from container images and file systems
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: scoop
-  subrepo: main
-  binname: syft
-  visiblename: syft
-  version: 1.55.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
-- repo: pkgsrc_2026_2
-  srcname: devel/syft
-  binname: syft
-  visiblename: devel/syft
-  version: 0.65.0
-  origversion: 0.65.0nb35
-  status: outdated
-  summary: Generate Software Bill of Materials from container images and file systems
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: alpine_3_17
   subrepo: community
   srcname: syft
@@ -421,18 +388,6 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
-- repo: pkgsrc_2026_3
-  srcname: devel/syft
-  binname: syft
-  visiblename: devel/syft
-  version: 0.65.0
-  origversion: 0.65.0nb40
-  status: outdated
-  summary: Generate Software Bill of Materials from container images and file systems
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: alpine_edge
   subrepo: community
   srcname: syft
@@ -661,6 +616,27 @@
   origversion: null
   status: newest
   summary: CLI for generating a Software Bill of Materials from container images
+- repo: homebrew
+  srcname: syft
+  visiblename: syft
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI for generating a Software Bill of Materials from container images
+- repo: kali_rolling
+  subrepo: main
+  srcname: syft
+  binnames:
+    - syft
+  visiblename: syft
+  version: 1.54.1
+  origversion: 1.54.1+ds-0kali1
+  status: outdated
+  maintainers:
+    - devel@kali.org
+    - sophie@kali.org
+  categories:
+    - golang
 - repo: liguros_stable
   srcname: app-containers/syft
   visiblename: app-containers/syft
@@ -836,23 +812,23 @@
   srcname: syft
   binname: syft
   visiblename: syft
-  version: 1.51.0
-  origversion: 1.51.0-1
+  version: 0.89.0
+  origversion: 0.89.0-1
   status: outdated
   summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_testing
   subrepo: extra
   srcname: syft
   binname: syft
   visiblename: syft
-  version: 1.52.0
-  origversion: 1.52.0-1
+  version: 0.89.0
+  origversion: 0.89.0-1
   status: outdated
   summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_unstable
   subrepo: extra
   srcname: syft
@@ -985,20 +961,6 @@
   licenses:
     - Apache-2.0
 - repo: parrot
-  subrepo: parrot/main
-  srcname: syft
-  binnames:
-    - syft
-  visiblename: syft
-  version: 1.38.0
-  origversion: 1.38.0+ds-0parrot1
-  status: outdated
-  maintainers:
-    - team@parrotsec.org
-    - palinuro@parrotsec.org
-  categories:
-    - golang
-- repo: parrot
   subrepo: parrot-updates/main
   srcname: syft
   binnames:
@@ -1012,6 +974,65 @@
     - palinuro@parrotsec.org
   categories:
     - golang
+- repo: parrot
+  subrepo: parrot/main
+  srcname: syft
+  binnames:
+    - syft
+  visiblename: syft
+  version: 1.38.0
+  origversion: 1.38.0+ds-0parrot1
+  status: outdated
+  maintainers:
+    - team@parrotsec.org
+    - palinuro@parrotsec.org
+  categories:
+    - golang
+- repo: pkgsrc_2026_2
+  srcname: devel/syft
+  binname: syft
+  visiblename: devel/syft
+  version: 0.65.0
+  origversion: 0.65.0nb35
+  status: outdated
+  summary: Generate Software Bill of Materials from container images and file systems
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_3
+  srcname: devel/syft
+  binname: syft
+  visiblename: devel/syft
+  version: 0.65.0
+  origversion: 0.65.0nb40
+  status: outdated
+  summary: Generate Software Bill of Materials from container images and file systems
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/syft
+  binname: syft
+  visiblename: devel/syft
+  version: 0.65.0
+  origversion: 0.65.0nb41
+  status: outdated
+  summary: Generate Software Bill of Materials from container images and file systems
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: scoop
+  subrepo: main
+  binname: syft
+  visiblename: syft
+  version: 1.55.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
 - repo: slackbuilds
   srcname: development/syft
   visiblename: development/syft
@@ -1035,24 +1056,3 @@
     - cinerea0@protonmail.com
   licenses:
     - Apache-2.0
-- repo: homebrew
-  srcname: syft
-  visiblename: syft
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CLI for generating a Software Bill of Materials from container images
-- repo: kali_rolling
-  subrepo: main
-  srcname: syft
-  binnames:
-    - syft
-  visiblename: syft
-  version: 1.54.1
-  origversion: 1.54.1+ds-0kali1
-  status: outdated
-  maintainers:
-    - devel@kali.org
-    - sophie@kali.org
-  categories:
-    - golang

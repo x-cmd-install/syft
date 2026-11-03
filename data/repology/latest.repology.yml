@@ -432,12 +432,12 @@
   binnames:
     - syft
   visiblename: syft
-  version: 1.49.0
-  origversion: 1.49.0-alt1
+  version: 1.54.1
+  origversion: 1.54.1-alt1
   status: outdated
   summary: A CLI tool and Go library for generating an SBOM from container images and filesystems
   maintainers:
-    - kuzmaav@altlinux.org
+    - shaba@altlinux.org
   licenses:
     - Apache-2.0
   categories:
@@ -464,7 +464,7 @@
   visiblename: syft
   version: 1.55.0
   origversion: 1.55.0-1
-  status: newest
+  status: outdated
   summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   licenses:
     - Apache-2.0
@@ -475,7 +475,7 @@
   visiblename: syft
   version: 1.55.0
   origversion: 1.55.0-r0
-  status: newest
+  status: outdated
   summary: SBOM generator CLI for container images, filesystems and binaries
   licenses:
     - Apache-2.0
@@ -486,7 +486,7 @@
   visiblename: syft-bashcomp
   version: 1.55.0
   origversion: 1.55.0-r0
-  status: newest
+  status: outdated
   summary: SBOM generator CLI for container images, filesystems and binaries (bash completions)
   licenses:
     - Apache-2.0
@@ -497,7 +497,7 @@
   visiblename: syft-fishcomp
   version: 1.55.0
   origversion: 1.55.0-r0
-  status: newest
+  status: outdated
   summary: SBOM generator CLI for container images, filesystems and binaries (fish completions)
   licenses:
     - Apache-2.0
@@ -508,7 +508,7 @@
   visiblename: syft-zshcomp
   version: 1.55.0
   origversion: 1.55.0-r0
-  status: newest
+  status: outdated
   summary: SBOM generator CLI for container images, filesystems and binaries (zsh completions)
   licenses:
     - Apache-2.0
@@ -517,7 +517,7 @@
   visiblename: Syft
   version: 1.55.0
   origversion: null
-  status: newest
+  status: outdated
   summary: A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 - repo: freebsd
   srcname: security/syft
@@ -570,6 +570,19 @@
     - Apache-2.0
   categories:
     - app-containers
+- repo: nix_stable_24_11
+  srcname: syft
+  visiblename: syft
+  version: 1.18.0
+  origversion: null
+  status: outdated
+  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  maintainers:
+    - developerguyn@gmail.com
+    - hello+nixpkgs@j-k.io
+    - supra4keanu@hotmail.com
+  licenses:
+    - Apache-2.0
 - repo: gentoo
   srcname: app-containers/syft
   visiblename: app-containers/syft
@@ -612,7 +625,7 @@
 - repo: homebrew
   srcname: syft
   visiblename: syft
-  version: 1.55.0
+  version: 1.56.0
   origversion: null
   status: newest
   summary: CLI for generating a Software Bill of Materials from container images
@@ -799,7 +812,7 @@
   visiblename: syft
   version: 1.55.0
   origversion: null
-  status: newest
+  status: outdated
   summary: A CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems
   maintainers:
     - subpop@github
@@ -853,19 +866,6 @@
     - supra4keanu@hotmail.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: syft
-  visiblename: syft
-  version: 1.18.0
-  origversion: null
-  status: outdated
-  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-  maintainers:
-    - developerguyn@gmail.com
-    - hello+nixpkgs@j-k.io
-    - supra4keanu@hotmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: syft
   visiblename: syft
@@ -910,7 +910,7 @@
   visiblename: syft
   version: 1.55.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   maintainers:
     - developerguyn@gmail.com
@@ -943,7 +943,7 @@
   visiblename: syft
   version: 1.55.0
   origversion: 1.55.0-1.1
-  status: newest
+  status: outdated
   summary: CLI tool and library for generating a Software Bill of Materials
   licenses:
     - Apache-2.0
@@ -956,12 +956,12 @@
   visiblename: syft
   version: 1.55.0
   origversion: 1.55.0-1
-  status: newest
+  status: outdated
   summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   licenses:
     - Apache-2.0
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: syft
   binnames:
     - syft
@@ -975,7 +975,7 @@
   categories:
     - golang
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: syft
   binnames:
     - syft
@@ -1028,7 +1028,7 @@
   subrepo: main
   binname: syft
   visiblename: syft
-  version: 1.55.0
+  version: 1.56.0
   origversion: null
   status: newest
   licenses:
@@ -1038,7 +1038,7 @@
   visiblename: development/syft
   version: 1.55.0
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - boxjake.romero@protonmail.com
   categories:

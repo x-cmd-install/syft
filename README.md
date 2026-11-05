@@ -14,12 +14,12 @@ x install syft
 
 ## Code insight
 
-Total: **822,507** lines of code across **1714** files in the top 5 languages.
+Total: **827,603** lines of code across **1717** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 587,282 | 0 | 4 | 261 |
-| Go | 193,398 | 16,194 | 23,470 | 1284 |
+| Json | 591,987 | 0 | 4 | 262 |
+| Go | 193,789 | 16,225 | 23,522 | 1286 |
 | Xml | 27,749 | 261 | 186 | 44 |
 | Yaml | 8,233 | 183 | 556 | 92 |
 | Sh | 1,744 | 353 | 528 | 33 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,827 · **Forks**: 1,041 · **Open issues**: 1,626 · **Contributors**: 293
+- **Stars**: 9,832 · **Forks**: 1,042 · **Open issues**: 1,628 · **Contributors**: 295
 
 ## Totals (cumulative)
 
-- **Releases**: 246 · **Merged PRs**: 3249 · **Open PRs**: 182 · **Closed issues**: 1098 · **Open issues**: 528 · **Commits**: 3671
+- **Releases**: 246 · **Merged PRs**: 3251 · **Open PRs**: 183 · **Closed issues**: 1098 · **Open issues**: 530 · **Commits**: 3673
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 53 | 58 | 2 | 25 | 58 |
-| last60d | 2026-09-05 | 5 | 137 | 74 | 10 | 36 | 148 |
-| 90d | 2026-08-06 | 7 | 182 | 97 | 17 | 50 | 192 |
-| last180d | 2026-05-08 | 13 | 323 | 125 | 46 | 73 | 342 |
-| 360d | 2025-11-09 | 28 | 605 | 153 | 122 | 116 | 604 |
-| last720d | 2024-11-14 | 55 | 1196 | 176 | 220 | 235 | 1215 |
+| 30d | 2026-10-06 | 3 | 54 | 55 | 2 | 27 | 60 |
+| last60d | 2026-09-06 | 5 | 139 | 73 | 10 | 38 | 150 |
+| 90d | 2026-08-07 | 7 | 179 | 97 | 17 | 52 | 194 |
+| last180d | 2026-05-09 | 13 | 325 | 125 | 46 | 75 | 344 |
+| 360d | 2025-11-10 | 28 | 604 | 154 | 122 | 118 | 606 |
+| last720d | 2024-11-15 | 55 | 1196 | 177 | 220 | 235 | 1212 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:58:18Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:14:17Z._

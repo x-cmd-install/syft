@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.57.0` (2026-11-05)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 9,842 · **Forks**: 1,042 · **Open issues**: 1,633 · **Contributors**: 295
+- **Stars**: 9,849 · **Forks**: 1,043 · **Open issues**: 1,634 · **Contributors**: 295
 
 ## Totals (cumulative)
 
-- **Releases**: 247 · **Merged PRs**: 3253 · **Open PRs**: 180 · **Closed issues**: 1099 · **Open issues**: 534 · **Commits**: 3675
+- **Releases**: 247 · **Merged PRs**: 3259 · **Open PRs**: 182 · **Closed issues**: 1099 · **Open issues**: 535 · **Commits**: 3681
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 3 | 54 | 52 | 3 | 31 | 62 |
-| last60d | 2026-09-07 | 6 | 139 | 72 | 11 | 42 | 152 |
-| 90d | 2026-08-08 | 8 | 180 | 96 | 17 | 56 | 196 |
-| last180d | 2026-05-10 | 14 | 325 | 124 | 47 | 79 | 346 |
-| 360d | 2025-11-11 | 29 | 606 | 154 | 123 | 122 | 608 |
-| last720d | 2024-11-16 | 56 | 1197 | 174 | 221 | 239 | 1212 |
+| 30d | 2026-10-08 | 3 | 59 | 52 | 3 | 32 | 68 |
+| last60d | 2026-09-08 | 6 | 142 | 74 | 11 | 43 | 158 |
+| 90d | 2026-08-09 | 8 | 186 | 98 | 17 | 57 | 202 |
+| last180d | 2026-05-11 | 14 | 327 | 125 | 47 | 80 | 352 |
+| 360d | 2025-11-12 | 29 | 610 | 156 | 122 | 122 | 614 |
+| last720d | 2024-11-17 | 56 | 1201 | 176 | 221 | 240 | 1218 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:08:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:31:57Z._

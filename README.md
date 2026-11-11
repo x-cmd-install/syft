@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,869 · **Forks**: 1,045 · **Open issues**: 1,638 · **Contributors**: 294
+- **Stars**: 9,874 · **Forks**: 1,047 · **Open issues**: 1,642 · **Contributors**: 294
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 3254 · **Open PRs**: 178 · **Closed issues**: 1100 · **Open issues**: 538 · **Commits**: 3682
+- **Releases**: 248 · **Merged PRs**: 3254 · **Open PRs**: 182 · **Closed issues**: 1100 · **Open issues**: 542 · **Commits**: 3682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 49 | 46 | 2 | 36 | 53 |
-| last60d | 2026-09-11 | 7 | 120 | 70 | 12 | 44 | 134 |
-| 90d | 2026-08-12 | 8 | 179 | 94 | 14 | 59 | 195 |
-| last180d | 2026-05-14 | 15 | 322 | 121 | 48 | 82 | 345 |
-| 360d | 2025-11-15 | 30 | 599 | 152 | 122 | 125 | 601 |
-| last720d | 2024-11-20 | 57 | 1186 | 170 | 219 | 240 | 1210 |
+| 30d | 2026-10-12 | 4 | 44 | 49 | 2 | 39 | 53 |
+| last60d | 2026-09-12 | 7 | 120 | 71 | 12 | 48 | 134 |
+| 90d | 2026-08-13 | 8 | 177 | 98 | 14 | 60 | 195 |
+| last180d | 2026-05-15 | 15 | 321 | 125 | 48 | 85 | 345 |
+| 360d | 2025-11-16 | 30 | 599 | 156 | 122 | 129 | 601 |
+| last720d | 2024-11-21 | 57 | 1184 | 174 | 218 | 243 | 1209 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **86** distros on [repology.org](https://repology.org/project/syft). **2** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
+Reported by **87** distros on [repology.org](https://repology.org/project/syft). **2** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:47:47Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:01:12Z._

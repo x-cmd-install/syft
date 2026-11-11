@@ -109,20 +109,6 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
-- repo: kali_rolling
-  subrepo: main
-  srcname: syft
-  binnames:
-    - syft
-  visiblename: syft
-  version: 1.54.1
-  origversion: 1.54.1+ds-0kali1
-  status: outdated
-  maintainers:
-    - devel@kali.org
-    - sophie@kali.org
-  categories:
-    - golang
 - repo: alpine_3_19
   subrepo: community
   srcname: syft
@@ -422,6 +408,18 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
+- repo: pkgsrc_2026_2
+  srcname: devel/syft
+  binname: syft
+  visiblename: devel/syft
+  version: 0.65.0
+  origversion: 0.65.0nb35
+  status: outdated
+  summary: Generate Software Bill of Materials from container images and file systems
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
 - repo: alpine_edge
   subrepo: community
   srcname: syft
@@ -667,6 +665,20 @@
   origversion: null
   status: rolling
   summary: CLI for generating a Software Bill of Materials from container images
+- repo: kali_rolling
+  subrepo: main
+  srcname: syft
+  binnames:
+    - syft
+  visiblename: syft
+  version: 1.54.1
+  origversion: 1.54.1+ds-0kali1
+  status: outdated
+  maintainers:
+    - devel@kali.org
+    - sophie@kali.org
+  categories:
+    - golang
 - repo: liguros_stable
   srcname: app-containers/syft
   visiblename: app-containers/syft
@@ -1018,18 +1030,6 @@
     - palinuro@parrotsec.org
   categories:
     - golang
-- repo: pkgsrc_2026_2
-  srcname: devel/syft
-  binname: syft
-  visiblename: devel/syft
-  version: 0.65.0
-  origversion: 0.65.0nb35
-  status: outdated
-  summary: Generate Software Bill of Materials from container images and file systems
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: pkgsrc_2026_3
   srcname: devel/syft
   binname: syft
@@ -1073,6 +1073,21 @@
     - boxjake.romero@protonmail.com
   categories:
     - development
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: syft
+  binnames:
+    - syft
+    - golang-github-anchore-syft-dev
+  visiblename: syft
+  version: 1.54.1
+  origversion: 1.54.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - juan.mendezr@proton.me
+  categories:
+    - universe/golang
 - repo: void_x86_64
   subrepo: x86_64
   srcname: syft

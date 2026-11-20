@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,925 · **Forks**: 1,066 · **Open issues**: 1,658 · **Contributors**: 302
+- **Stars**: 9,934 · **Forks**: 1,070 · **Open issues**: 1,659 · **Contributors**: 302
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 3273 · **Open PRs**: 188 · **Closed issues**: 1106 · **Open issues**: 552 · **Commits**: 3701
+- **Releases**: 249 · **Merged PRs**: 3273 · **Open PRs**: 191 · **Closed issues**: 1106 · **Open issues**: 553 · **Commits**: 3701
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 52 | 44 | 6 | 42 | 65 |
-| last60d | 2026-09-20 | 7 | 124 | 75 | 12 | 60 | 146 |
-| 90d | 2026-08-21 | 9 | 176 | 100 | 18 | 67 | 194 |
-| last180d | 2026-05-23 | 16 | 328 | 131 | 54 | 94 | 359 |
-| 360d | 2025-11-24 | 30 | 597 | 161 | 123 | 137 | 607 |
-| last720d | 2024-11-29 | 57 | 1193 | 180 | 224 | 248 | 1218 |
+| 30d | 2026-10-21 | 4 | 51 | 46 | 5 | 42 | 65 |
+| last60d | 2026-09-21 | 7 | 121 | 76 | 12 | 60 | 146 |
+| 90d | 2026-08-22 | 9 | 176 | 101 | 18 | 68 | 194 |
+| last180d | 2026-05-24 | 16 | 328 | 134 | 54 | 95 | 359 |
+| 360d | 2025-11-25 | 30 | 596 | 164 | 123 | 138 | 607 |
+| last720d | 2024-11-30 | 57 | 1193 | 183 | 224 | 249 | 1218 |
 
 ## Release assets
 
@@ -101,14 +101,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **87** distros on [repology.org](https://repology.org/project/syft). **2** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
+Reported by **87** distros on [repology.org](https://repology.org/project/syft). **3** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.57.1` | ⚠️ outdated |
 | Arch | `1.55.0` | ⚠️ outdated |
 | Homebrew | `1.57.2` | ✅ latest |
-| Nix unstable | `1.56.0` | ⚠️ outdated |
+| Nix unstable | `1.57.2` | ✅ latest |
 | Void | `1.42.2` | ⚠️ outdated |
 | Alpine edge | `1.57.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.57.1` | ⚠️ outdated |
@@ -122,4 +122,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:45:23Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:20:44Z._

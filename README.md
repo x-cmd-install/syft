@@ -26,7 +26,7 @@ Total: **829,196** lines of code across **1722** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.6 / 10**
+Overall score: **8.9 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,951 · **Forks**: 1,073 · **Open issues**: 1,660 · **Contributors**: 302
+- **Stars**: 9,958 · **Forks**: 1,076 · **Open issues**: 1,660 · **Contributors**: 302
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 3281 · **Open PRs**: 192 · **Closed issues**: 1106 · **Open issues**: 554 · **Commits**: 3709
+- **Releases**: 249 · **Merged PRs**: 3281 · **Open PRs**: 193 · **Closed issues**: 1106 · **Open issues**: 554 · **Commits**: 3709
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 48 | 47 | 5 | 39 | 51 |
-| last60d | 2026-09-24 | 7 | 124 | 76 | 10 | 60 | 123 |
-| 90d | 2026-08-25 | 9 | 183 | 94 | 17 | 68 | 194 |
-| last180d | 2026-05-27 | 16 | 335 | 133 | 53 | 96 | 362 |
-| 360d | 2025-11-28 | 30 | 602 | 165 | 119 | 138 | 605 |
-| last720d | 2024-12-03 | 57 | 1196 | 184 | 224 | 249 | 1221 |
+| 30d | 2026-10-25 | 4 | 48 | 48 | 4 | 37 | 51 |
+| last60d | 2026-09-25 | 7 | 116 | 77 | 9 | 60 | 123 |
+| 90d | 2026-08-26 | 9 | 183 | 93 | 17 | 67 | 194 |
+| last180d | 2026-05-28 | 16 | 335 | 134 | 53 | 96 | 362 |
+| 360d | 2025-11-29 | 30 | 602 | 166 | 118 | 138 | 605 |
+| last720d | 2024-12-04 | 57 | 1194 | 185 | 224 | 248 | 1219 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **87** distros on [repology.org](https://repology.org/project/syft). **8** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+Reported by **87** distros on [repology.org](https://repology.org/project/syft). **9** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -111,7 +111,7 @@ Reported by **87** distros on [repology.org](https://repology.org/project/syft).
 | Nix unstable | `1.57.2` | ✅ latest |
 | Void | `1.42.2` | ⚠️ outdated |
 | Alpine edge | `1.57.2` | ✅ latest |
-| openSUSE Tumbleweed | `1.57.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.57.2` | ✅ latest |
 
 ## Improve this data
 
@@ -122,4 +122,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:40:46Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:54:27Z._

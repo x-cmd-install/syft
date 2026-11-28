@@ -1,3 +1,21 @@
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: syft
+  binname: syft
+  visiblename: syft
+  version: 1.55.0
+  origversion: 1.55.0-1
+  status: outdated
+  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: syft
+  visiblename: syft
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI for generating a Software Bill of Materials from container images
 - repo: alpine_3_17
   subrepo: community
   srcname: syft
@@ -115,6 +133,19 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: syft
+  binname: syft
+  visiblename: syft
+  version: 1.4.1
+  origversion: 1.4.1-r2
+  status: outdated
+  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
 - repo: kali_rolling
   subrepo: main
   srcname: syft
@@ -132,19 +163,6 @@
 - repo: alpine_3_20
   subrepo: community
   srcname: syft
-  binname: syft
-  visiblename: syft
-  version: 1.4.1
-  origversion: 1.4.1-r2
-  status: outdated
-  summary: Generate a Software Bill of Materials (SBOM) from container images and filesystems
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: syft
   binname: syft-bash-completion
   visiblename: syft-bash-completion
   version: 1.4.1
@@ -298,6 +316,17 @@
     - michal@polanski.me
   licenses:
     - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: syft
+  binname: syft
+  visiblename: syft
+  version: 1.55.0
+  origversion: 1.55.0-1
+  status: outdated
+  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_23
   subrepo: community
   srcname: syft
@@ -426,6 +455,17 @@
   summary: Fish completions for syft
   maintainers:
     - michal@polanski.me
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: syft
+  binname: syft
+  visiblename: syft
+  version: 1.57.2
+  origversion: 1.57.2-1
+  status: newest
+  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -461,9 +501,9 @@
   binnames:
     - syft
   visiblename: syft
-  version: 1.57.0
-  origversion: 1.57.0-alt1
-  status: outdated
+  version: 1.57.2
+  origversion: 1.57.2-alt1
+  status: newest
   summary: A CLI tool and Go library for generating an SBOM from container images and filesystems
   maintainers:
     - kuzmaav@altlinux.org
@@ -476,9 +516,9 @@
   srcname: syft
   binname: syft
   visiblename: syft
-  version: 1.55.0
-  origversion: 1.55.0-1
-  status: outdated
+  version: 1.57.2
+  origversion: 1.57.2-1
+  status: newest
   summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
   licenses:
     - Apache-2.0
@@ -540,9 +580,9 @@
     - syft
     - golang-github-anchore-syft-dev
   visiblename: syft
-  version: 1.57.1
-  origversion: 1.57.1-1
-  status: outdated
+  version: 1.57.2
+  origversion: 1.57.2-1
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - juan.mendezr@proton.me
@@ -555,9 +595,9 @@
     - syft
     - golang-github-anchore-syft-dev
   visiblename: syft
-  version: 1.57.1
-  origversion: 1.57.1-1
-  status: outdated
+  version: 1.57.2
+  origversion: 1.57.2-1
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - juan.mendezr@proton.me
@@ -659,13 +699,6 @@
   version: 1.57.2
   origversion: null
   status: newest
-  summary: CLI for generating a Software Bill of Materials from container images
-- repo: homebrew
-  srcname: syft
-  visiblename: syft
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: CLI for generating a Software Bill of Materials from container images
 - repo: liguros_stable
   srcname: app-containers/syft
@@ -837,39 +870,6 @@
     - Apache-2
   categories:
     - security
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: syft
-  binname: syft
-  visiblename: syft
-  version: 1.55.0
-  origversion: 1.55.0-1
-  status: outdated
-  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: syft
-  binname: syft
-  visiblename: syft
-  version: 1.55.0
-  origversion: 1.55.0-1
-  status: outdated
-  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: syft
-  binname: syft
-  visiblename: syft
-  version: 1.55.0
-  origversion: 1.55.0-1
-  status: outdated
-  summary: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: syft
   visiblename: syft
@@ -991,7 +991,7 @@
   licenses:
     - Apache-2.0
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: syft
   binnames:
     - syft
@@ -1005,7 +1005,7 @@
   categories:
     - golang
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: syft
   binnames:
     - syft

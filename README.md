@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.57.2` (2026-11-16)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 9,980 · **Forks**: 1,089 · **Open issues**: 1,668 · **Contributors**: 302
+- **Stars**: 9,985 · **Forks**: 1,091 · **Open issues**: 1,669 · **Contributors**: 302
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 3282 · **Open PRs**: 207 · **Closed issues**: 1106 · **Open issues**: 562 · **Commits**: 3710
+- **Releases**: 249 · **Merged PRs**: 3288 · **Open PRs**: 208 · **Closed issues**: 1106 · **Open issues**: 563 · **Commits**: 3716
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 4 | 44 | 55 | 4 | 43 | 52 |
-| last60d | 2026-09-28 | 7 | 115 | 91 | 8 | 66 | 124 |
-| 90d | 2026-08-29 | 8 | 178 | 105 | 17 | 73 | 195 |
-| last180d | 2026-05-31 | 16 | 333 | 148 | 53 | 104 | 363 |
-| 360d | 2025-12-02 | 30 | 595 | 180 | 117 | 146 | 606 |
-| last720d | 2024-12-07 | 57 | 1188 | 199 | 224 | 255 | 1212 |
+| 30d | 2026-10-29 | 4 | 47 | 54 | 4 | 43 | 0 |
+| last60d | 2026-09-29 | 7 | 107 | 92 | 8 | 67 | 0 |
+| 90d | 2026-08-30 | 8 | 184 | 106 | 17 | 74 | 0 |
+| last180d | 2026-06-01 | 16 | 339 | 149 | 53 | 105 | 0 |
+| 360d | 2025-12-03 | 30 | 599 | 181 | 116 | 146 | 0 |
+| last720d | 2024-12-08 | 57 | 1194 | 200 | 224 | 256 | 1218 |
 
 ## Release assets
 
@@ -99,6 +99,20 @@ Lowest-scoring checks:
 | [syft_1.57.2_windows_arm64.sbom](https://github.com/anchore/syft/releases/download/v1.57.2/syft_1.57.2_windows_arm64.sbom) | 282.5 KiB | `native/win/arm64` |
 | [syft_1.57.2_windows_arm64.zip](https://github.com/anchore/syft/releases/download/v1.57.2/syft_1.57.2_windows_arm64.zip) | 26.0 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **87** distros on [repology.org](https://repology.org/project/syft). **14** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.57.2` | ✅ latest |
+| Arch | `1.57.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.57.2` | ✅ latest |
+| Void | `1.42.2` | ⚠️ outdated |
+| Alpine edge | `1.57.2` | ✅ latest |
+| openSUSE Tumbleweed | `1.57.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `syft` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +122,4 @@ Install metadata for syft lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:43:13Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:27:12Z._
